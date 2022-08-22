@@ -1,6 +1,7 @@
 class GreedySort1:
     '''
     https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations1149/1
+    https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
     '''
     def maximizeSum(self, a, n, k):
         '''
